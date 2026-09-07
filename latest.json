@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.0",
-  "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.0.0/apex-1.0.0.0.zip",
-  "sha256": "84c215e490d5515093e50309c0f5d1110d6dc0cde0ef1123ef01e9e988e2da8a",
-  "notes": "Baseline release."
+  "version": "1.0.2.0",
+  "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.2.0/apex-1.0.2.0.zip",
+  "sha256": "52dc7d5c54ca4394277e1b2ff2a819d78e946a4e5d2062424e2e64968d868c36",
+  "notes": "Fixes a boot screen that never cleared on a new account, shows the account allowance, and corrects the subscription expiry readout."
 }
