@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2.0",
-  "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.2.0/apex-1.0.2.0.zip",
-  "sha256": "52dc7d5c54ca4394277e1b2ff2a819d78e946a4e5d2062424e2e64968d868c36",
-  "notes": "Fixes a boot screen that never cleared on a new account, shows the account allowance, and corrects the subscription expiry readout."
+  "version": "1.0.3.0",
+  "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.3.0/apex-1.0.3.0.zip",
+  "sha256": "be324079ee867b3fcb8dd51b12a2c9771e6b3ec495017df62b0af3b949fb38ed",
+  "notes": "Account linking moved onto the account, new accounts start with the growth settings on, and the boot screen waits for the fleet to finish loading."
 }
